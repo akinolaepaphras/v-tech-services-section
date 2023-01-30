@@ -1,0 +1,57 @@
+.dropdown-toggle::after {
+    display: none;
+  }
+
+.text-decoration-none {
+  text-decoration: none!important;
+}
+
+/* Font Awesome Icons have variable width. Added fixed width to fix that.*/
+.icon-width {
+    width: 2rem;
+}
+
+.web-design {
+  padding-top: 3rem;
+  background-color: #0F2F56;
+}
+
+h1 {
+  color: #ff2f4f;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #ececd8;
+}
+
+input {
+  height: 4rem;
+ 
+}
+
+.input-message {
+  height: 6rem;
+}
+
+input::placeholder {
+  color: #0F2F56 !important;
+}
+
+button {
+  height: 4rem !important;
+  background-color: #0F2F56 !important;
+}
+
+footer {
+  background-color: #0F2F56;
+  color: #ececd8;
+}
+
+
+/*
+ colors
+#ff2f4f accent color
+#of2f56
+#ececd8
+*/
