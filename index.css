@@ -113,28 +113,7 @@ button:hover {
   min-height: 100% !important;
 }
 
-footer {
-  background-color: #003049;
-  color: #fdf0d5;
-}
 
-a {
-  text-decoration: none;
-  color: #fdf0d5;
-  transition: color 300ms ease-in-out;
-}
-
-a:hover {
-  color: #c1121f;
-}
-
-.footer__menu {
-  width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  column-gap: 1em;
-  row-gap: 0.5em;
-}
 
 /*
  colors
